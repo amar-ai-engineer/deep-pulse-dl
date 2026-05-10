@@ -1,0 +1,14 @@
+{
+  "model": "LSTM (2-layer, 128 units)",
+  "dataset": "NASA C-MAPSS FD001",
+  "test_engines": 100,
+  "rmse": 12.6,
+  "mae": 10.05,
+  "r2": 0.9011,
+  "baseline_rmse": 40.07,
+  "improvement_vs_baseline_pct": 68.6,
+  "training_epochs": 50,
+  "sequence_length": 30,
+  "features_used": 14,
+  "rul_cap": 125
+}
