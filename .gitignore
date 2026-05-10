@@ -11,3 +11,6 @@ build/
 *.egg-info/
 .DS_Store
 *.log
+
+PRESENTATION.md
+TEACHING_NOTES.md
